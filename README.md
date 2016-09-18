@@ -1,9 +1,9 @@
 # react-flexbox-grid
 
 React flexboxgrid components
-included flexboxgrid.min.css and normalize.css
+included flexboxgrid.min.css ~~and normalize.css~~
 
-`meteor add lifefilm:react-flexbox-grid
+`meteor add unforgiven:forked-react-flexbox-grid
 `
 ## Code snippets
 
